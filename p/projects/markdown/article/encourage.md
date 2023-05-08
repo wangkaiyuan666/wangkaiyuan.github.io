@@ -20,4 +20,3 @@
 
 ![](../image/pic7.png)
 
-![](../image/pic8.png)
