@@ -18,5 +18,4 @@
 
 ![](../image/pic6.png)
 
-![](../image/pic7.png)
 
